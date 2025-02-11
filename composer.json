@@ -1,0 +1,16 @@
+{
+    "name": "eykj/qcc",
+    "description": "一一科技企查查组件",
+    "license": "MIT",
+    "keywords": [
+        "eykj",
+        "qcc"
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Eykj\\Qcc\\": "src/"
+        },
+        "files": []
+    }
+}
